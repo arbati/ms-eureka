@@ -1,0 +1,2 @@
+# ms-eureka
+service eureka
